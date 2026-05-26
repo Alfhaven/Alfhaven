@@ -17,3 +17,6 @@ e bancos de dados relacionais com MySQL.
 - 🎵 [Nightcore Compiler](link) — Java + Spring Boot + Thymeleaf
 - 🌍 [Consulta de Capitais](link) — Python
 - 🎮 [Quiz App](link) — HTML + CSS + JS
+
+## Links(Redes Sociais)
+- 💬 [LinkedIn] — www.linkedin.com/in/alvaro-freitas-santos
